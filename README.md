@@ -6,7 +6,7 @@ A project implemented Uber features:
         3. Rider can check Driver's location
         4. Driver can choose whether accept rider's request and find the driection to rider
 <div  align=center> 
-<img src="https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/Screenshot_1487358823.png" width="30%" height="30%">
-<img src="https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/Screenshot_1487359535.png" width="30%" height="30%">
+<img src="https://github.com/mityao/MiniUberV2/raw/master/uberscreenshot1.png" width="100%" height="100%">
+<img src="https://github.com/mityao/MiniUberV2/raw/master/uberscreenshot2.png" width="100%" height="100%">
 </div>  
 
