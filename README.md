@@ -5,7 +5,9 @@ A project implemented Uber features:
         2. Cancel an Uber
         3. Rider can check Driver's location
         4. Driver can choose whether accept rider's request and find the driection to rider
-    
-    
-![user UI](https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/Screenshot_1487358823.png)
+<img src="https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/Screenshot_1487358823.png" width="30%" height="30%">
+<div style="align: center">
+<img src="https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/Screenshot_1487359535.png" width="30%" height="30%">
+        
+        UI for rider or driver launch the app first time
 
