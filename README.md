@@ -7,4 +7,5 @@ A project implemented Uber features:
         4. Driver can choose whether accept rider's request and find the driection to rider
     
     
-    ![](https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/to/Screenshot_1487358823.jpg)
+![user UI](https://github.com/mityao/MiniUberV2/raw/master/app/src/main/res/drawable/Screenshot_1487358823.png)
+
